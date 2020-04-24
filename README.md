@@ -1,5 +1,7 @@
 # InvasionGame
 
+Developed desktop based shooting game using Java and JavaFX
+
 **Main Page**
 
 <img src="https://github.com/Jaejun-Project/InvasionGame/blob/master/readmeImg/main.png"  width="500" height="300" />
